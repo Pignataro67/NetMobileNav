@@ -46,4 +46,7 @@ body {
 .nav.visible {
   transform: translateX(0);
 }
-  
+
+.nav-black.visible {
+  transition-delay: 0s;
+}
