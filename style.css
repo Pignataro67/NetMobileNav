@@ -70,5 +70,13 @@ body {
 }
 
 .nav-red.visible {
-    transition-delay: 0.2s;
-  }
+  transition-delay: 0.2s;
+}
+
+.nav-white {
+  background-color: #fff;
+  width: 95%;
+  padding: 40px;
+  position: relative;
+  transition-delay: 0s;
+}
