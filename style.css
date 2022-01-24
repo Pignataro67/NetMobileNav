@@ -68,3 +68,7 @@ body {
   width: 95%;
   transition-delay: 0.2s;
 }
+
+.nav-red.visible {
+    transition-delay: 0.2s;
+  }
