@@ -80,3 +80,10 @@ body {
   position: relative;
   transition-delay: 0s;
 }
+
+.close-btn {
+  opacity: 0.3;
+  position: absolute;
+  top: 40px;
+  right: 30px;
+}
